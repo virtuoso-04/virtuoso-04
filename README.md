@@ -13,9 +13,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=virtuoso-04&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-## 🎧Spotify
-<h3 align="left">connect over music? my recent plays:</h3>
-<p align="center"><img align="center" src="https://cutt.ly/githubspotify" alt="selfhosted; reload if not visible" /></p>
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
+
+&nbsp;<div align="center">
+  [Fork](https://github.com/novatorem/novatorem/blob/main/SetUp.md) this [unlicensed](https://choosealicense.com/licenses/unlicense/) repository to recreate!<br><br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
