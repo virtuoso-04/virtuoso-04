@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 <br>👯 I’m looking to collaborate on web devlopment project<br>🌱 I’m currently learning flutter  <br>💬 Ask me about Java, C , data structures<br>⚡ Fun fact ik graphic design
+🔭 <br>👯 I’m looking to collaborate on web devlopment project<br>🌱 I’m currently learning development  <br>💬 Ask me about Java, C , data structures<br>⚡ Fun fact ik graphic design
 
 
 # 💻 Tech Stack:
@@ -13,6 +13,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=virtuoso-04&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+## 🎧Spotify
+<h3 align="left">connect over music? my recent plays:</h3>
+<p align="center"><img align="center" src="https://cutt.ly/githubspotify" alt="selfhosted; reload if not visible" /></p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -21,6 +25,7 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=virtuoso-04&icon=4&color=3)](https://visitcount.itsvg.in)
