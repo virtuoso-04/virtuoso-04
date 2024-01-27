@@ -14,7 +14,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=virtuoso-04&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 &nbsp;<div align="center">
-  [![Spotify](https://ANant.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ANant)
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ANant)
 </div>
 
 ### ✍️ Random Dev Quote
