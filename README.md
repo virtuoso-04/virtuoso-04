@@ -4,7 +4,6 @@
 
 
 # 💻 Tech Stack 
-#🔨 Languages & Frameworks & Skills ⭐️:
 
 ### Web Design & Development 💻:
 ###  Frontend:
