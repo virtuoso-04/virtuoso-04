@@ -54,9 +54,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=virtuoso-04&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=virtuoso-04&icon=4&color=3)](https://visitcount.itsvg.in)
