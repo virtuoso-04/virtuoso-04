@@ -51,7 +51,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=virtuoso-04&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ## 🎶 Spotify Now Playing
-[![Spotify](https://novatorem-anant-sharmas-projects-62b61c9f.vercel.app/api/spotify)](https://open.spotify.com/user/jr4krv4jdm5kmjg8dh5uk3il8)
+[![Spotify](https://novatorem-anant-sharmas-projects-62b61c9f.vercel.app/api/spotify)](https://open.spotify.com/user/Anant)
 
 
 ### ✍️ Random Dev Quote
