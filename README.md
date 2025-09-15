@@ -1,13 +1,5 @@
-<!-- HEADER/BANNER -->
-<p align="center">
-  <img src="./header.svg" alt="Anant Sharma — Software Engineer @ Amazon" width="100%" />
-</p>
-
----
 
 ## 👋 Hey there, I’m **Anant Sharma**
-
-**Software Engineer @ Amazon**  
 Building performance-driven web apps with a design edge.  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-link)  
