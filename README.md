@@ -3,10 +3,9 @@
 <img src="https://raw.githubusercontent.com/virtuoso-04/virtuoso-04/main/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="1000" height="200">
 </p>
 
-# 👋 Hi, I’m Anant Sharma  
+# 👋 Hi, I’m Anant 
 
 I’m a developer who loves building tools that make life easier, smarter, and sometimes just cooler.  
-Right now, I’m on a mission to create an **all-purpose PDF engine** — think iLovePDF, but with more flexibility, modern features, and a better user experience.  
 
 When I’m not coding, you’ll probably find me swimming 🏊‍♂️ (5x a week keeps me sane), experimenting with AI models, or tinkering with something that makes people go *“woah, how did you build that?”*.  
 
@@ -17,7 +16,6 @@ When I’m not coding, you’ll probably find me swimming 🏊‍♂️ (5x a we
 ---
 
 ## 💫 What I’m Up To
-- 🔭 **Building:** a next-gen PDF engine to simplify how people work with documents  
 - 🌱 **Learning:** advanced AI/ML techniques and cybersecurity (yes, including ethical hacking 🔐)  
 - 👯 **Collaborating on:** projects that mix AI + full-stack magic  
 - 💬 **Let’s talk about:** deep learning, neural networks, or full-stack dev journeys  
@@ -28,7 +26,7 @@ When I’m not coding, you’ll probably find me swimming 🏊‍♂️ (5x a we
 ## 🌐 Let’s Connect
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anantxsharma1/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anantsharma04/)  
-📫 Reach me directly: **anantxsharma1@gmail.com**
+📫 Reach me directly: **anant.sharma.career@gmail.com**
 
 ---
 
@@ -52,7 +50,7 @@ Languages I think in, frameworks I dream in, and tools I can’t live without:
 </p>
 
 <p align="center">
-![](https://raw.githubusercontent.com/virtuoso-04/virtuoso-04/main/hero.jpeg)
+<img src= "https://raw.githubusercontent.com/virtuoso-04/virtuoso-04/main/hero.jpeg">
 </p>
 
 ---
