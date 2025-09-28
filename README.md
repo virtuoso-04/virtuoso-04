@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/virtuoso-04/virtuoso-04/main/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="1000" height="500">
+<img src="https://raw.githubusercontent.com/virtuoso-04/virtuoso-04/main/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="1000" height="200">
 </p>
 
 # 👋 Hi, I’m Anant Sharma  
