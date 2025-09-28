@@ -1,4 +1,5 @@
 ![](https://raw.githubusercontent.com/virtuoso-04/virtuoso-04/main/hero.jpeg)
+<img src="https://raw.githubusercontent.com/virtuoso-04/virtuoso-04/main/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="1000">
 
 # 👋 Hey, I’m Anant Sharma  
 
@@ -10,8 +11,10 @@
 - 📫 Reach me at: **anantxsharma1@gmail.com**  
 - 📄 My experiences are on [LinkedIn](https://www.linkedin.com/in/anantsharma04/)  
 - ⚡ Fun fact: I swim 🏊‍♂️ 5x a week & love solving problems with code 👾  
-<img src="https://raw.githubusercontent.com/virtuoso-04/virtuoso-04/main/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="1000">
 
+
+## 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/virtuoso-04/virtuoso-04/output/github-contribution-grid-snake-dark.svg)
 ---
 
 # 💻 Tech Stack:
@@ -30,5 +33,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=virtuoso-04&theme=radical&hide_border=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=virtuoso-04&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
-## 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/virtuoso-04/virtuoso-04/output/github-contribution-grid-snake-dark.svg)
+
