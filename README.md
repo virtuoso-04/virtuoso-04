@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/virtuoso-04/virtuoso-04/main/hero.jpeg)
+
 <img src="https://raw.githubusercontent.com/virtuoso-04/virtuoso-04/main/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="1000">
 
 # 👋 Hey, I’m Anant Sharma  
@@ -25,6 +25,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anantsharma04/)  
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://raw.githubusercontent.com/virtuoso-04/virtuoso-04/main/hero.jpeg)
 
 ---
 
