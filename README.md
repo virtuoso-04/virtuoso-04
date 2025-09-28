@@ -6,12 +6,12 @@
 # 👋 Hey, I’m Anant Sharma  
 
 ## 📋 Table of Contents
-- [About Me](#-about-me)
-- [Contribution Snake](#-contribution-snake)
-- [Tech Stack](#-tech-stack)
-- [Connect with Me](#-connect-with-me)
-- [Random Dev Quote](#️-random-dev-quote)
-- [GitHub Stats](#-github-stats)
+- [About Me](#about-me)
+- [Contribution Snake](#contribution-snake)
+- [Tech Stack](#tech-stack)
+- [Connect with Me](#connect-with-me)
+- [Random Dev Quote](#random-dev-quote)
+- [GitHub Stats](#github-stats)
 
 ## 💫 About Me
 - 🔭 Currently building an **all-purpose PDF engine** (a smarter alternative to iLovePDF 🚀)  
