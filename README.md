@@ -2,8 +2,7 @@
   <img src="https://raw.githubusercontent.com/virtuoso-04/virtuoso-04/main/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="1000" height="200" alt="header-gif">
 </p>
 
-# 👋 Hi, I’m Anant Sharma
-
+# Hi, I’m Anant 🐨
 I’m a developer who loves building tools that make life easier, smarter, and sometimes just cooler.
 
 When I’m not coding, you’ll probably find me swimming 🏊‍♂️ (5x a week keeps me sane), experimenting with AI models, or tinkering with something that makes people go *“woah, how did you build that?”*.
@@ -11,8 +10,6 @@ When I’m not coding, you’ll probably find me swimming 🏊‍♂️ (5x a we
 <p align="center">
   <img src="https://raw.githubusercontent.com/virtuoso-04/virtuoso-04/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake">
 </p>
-
----
 
 ## 💫 What I’m Up To
 - 🔭 **Building:** a next-gen PDF engine to simplify how people work with documents
@@ -25,8 +22,7 @@ When I’m not coding, you’ll probably find me swimming 🏊‍♂️ (5x a we
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anantxsharma1/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anantsharma04/)
 
-📫 Reach me directly: **anantxsharma1@gmail.com**
-
+📫 Reach me directly: **anant.sharma.career@gmail.com**
 ---
 
 ## 💻 Tech Playground
@@ -45,7 +41,6 @@ Languages I think in, frameworks I dream in, and tools I can’t live without:
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
----
 
 ## ✍️ Random Dev Quote
 <p align="center">
@@ -55,8 +50,6 @@ Languages I think in, frameworks I dream in, and tools I can’t live without:
 <p align="center">
   <img src="https://raw.githubusercontent.com/virtuoso-04/virtuoso-04/main/hero.jpeg" alt="hero" />
 </p>
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
