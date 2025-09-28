@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/virtuoso-04/virtuoso-04/main/animate-loop-artwork.jpeg)
+![](https://raw.githubusercontent.com/virtuoso-04/virtuoso-04/main/hero.jpeg)
 
 # 👋 Hey, I’m Anant Sharma  
 
