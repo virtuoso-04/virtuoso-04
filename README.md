@@ -5,7 +5,7 @@
 
 # 👋 Hey, I’m Anant Sharma  
 
-## � Table of Contents
+## 📋 Table of Contents
 - [About Me](#-about-me)
 - [Contribution Snake](#-contribution-snake)
 - [Tech Stack](#-tech-stack)
@@ -13,7 +13,7 @@
 - [Random Dev Quote](#️-random-dev-quote)
 - [GitHub Stats](#-github-stats)
 
-## �💫 About Me
+## 💫 About Me
 - 🔭 Currently building an **all-purpose PDF engine** (a smarter alternative to iLovePDF 🚀)  
 - 🌱 Exploring **AI/ML techniques** and **ethical hacking**  
 - 👯 Open to **collaborations** on my PDF project  
