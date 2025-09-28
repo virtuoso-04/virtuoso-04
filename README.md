@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/virtuoso-04/virtuoso-04/main/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="1000">
+<img src="https://raw.githubusercontent.com/virtuoso-04/virtuoso-04/main/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="1000" height="500">
 </p>
 
 # 👋 Hi, I’m Anant Sharma  
@@ -11,7 +11,7 @@ Right now, I’m on a mission to create an **all-purpose PDF engine** — think 
 When I’m not coding, you’ll probably find me swimming 🏊‍♂️ (5x a week keeps me sane), experimenting with AI models, or tinkering with something that makes people go *“woah, how did you build that?”*.  
 
 <p align="center">
-(https://raw.githubusercontent.com/virtuoso-04/virtuoso-04/output/github-contribution-grid-snake-dark.svg)
+<img src= "https://raw.githubusercontent.com/virtuoso-04/virtuoso-04/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 ---
