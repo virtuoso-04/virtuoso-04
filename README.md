@@ -10,9 +10,8 @@ Right now, I’m on a mission to create an **all-purpose PDF engine** — think 
 
 When I’m not coding, you’ll probably find me swimming 🏊‍♂️ (5x a week keeps me sane), experimenting with AI models, or tinkering with something that makes people go *“woah, how did you build that?”*.  
 
-## 🐍 Contribution Snake
 <p align="center">
-![Snake animation](https://raw.githubusercontent.com/virtuoso-04/virtuoso-04/output/github-contribution-grid-snake-dark.svg)
+(https://raw.githubusercontent.com/virtuoso-04/virtuoso-04/output/github-contribution-grid-snake-dark.svg)
 </p>
 
 ---
