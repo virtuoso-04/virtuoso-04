@@ -10,8 +10,7 @@
 - 📫 Reach me at: **anantxsharma1@gmail.com**  
 - 📄 My experiences are on [LinkedIn](https://www.linkedin.com/in/anantsharma04/)  
 - ⚡ Fun fact: I swim 🏊‍♂️ 5x a week & love solving problems with code 👾  
-
----
+<img src="https://raw.githubusercontent.com/virtuoso-04/virtuoso-04/main/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="1000">
 
 ## 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anantxsharma1/)  
@@ -55,8 +54,6 @@
 
 ---
 
-## ⚡ Cool GIF
-<img src="https://raw.githubusercontent.com/virtuoso-04/virtuoso-04/main/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="1000">
 
 ---
 
