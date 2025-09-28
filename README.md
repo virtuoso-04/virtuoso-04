@@ -1,78 +1,66 @@
+![](https://raw.githubusercontent.com/virtuoso-04/virtuoso-04/main/your_cool_intro.gif)
 
-## 👋 Hey there, I’m **Anant Sharma**
-Building performance-driven web apps with a design edge.  
+# 👋 Hey, I’m Anant Sharma  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-link)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?logo=vercel&logoColor=white)](https://anantsharma04.me)  
-[![Email](https://img.shields.io/badge/Email-anant@youremail.com-red?logo=gmail)](mailto:anantsharma0404@gmail.com)
-
----
-
-## 🔧 What I Do
-
-- Architect & implement robust, scalable systems  
-- Deliver polished, responsive UI/UX with attention to performance  
-- Apply clean code, SOLID principles, maintainability  
-- Mentor, collaborate, and continuously learn emerging technologies  
+## 💫 About Me
+- 🔭 Currently building an **all-purpose PDF engine** (a smarter alternative to iLovePDF 🚀)  
+- 🌱 Exploring **AI/ML techniques** and **ethical hacking**  
+- 👯 Open to **collaborations** on my PDF project  
+- 💬 Ask me about **deep learning, neural networks, and full-stack development**  
+- 📫 Reach me at: **anantxsharma1@gmail.com**  
+- 📄 My experiences are on [LinkedIn](https://www.linkedin.com/in/anantsharma04/)  
+- ⚡ Fun fact: I swim 🏊‍♂️ 5x a week & love solving problems with code 👾  
 
 ---
 
-## 🛠 Skills & Tools
+## 🌐 Connect with Me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anantxsharma1/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anantsharma04/)  
 
-<p align="center">
-  <img alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />  
-  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />  
-  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />  
-  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />  
-  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />  
-  <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />  
-  <img alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />  
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
-</p>
+---
+
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)  
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23013.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+
+---
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=virtuoso-04&theme=dark&hide_border=true&show_icons=true&count_private=true" alt="Anant's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=virtuoso-04&theme=dark&hide_border=true" alt="Streak Stats" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=virtuoso-04&theme=radical&show_icons=true&hide_border=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=virtuoso-04&theme=radical&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=virtuoso-04&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
-## ⚡ Featured Projects
-
-| Project | What I built | Highlights |
-|---------|--------------|------------|
-| **Project A** | A web app that… (describe what) | Tech used, performance optimization, what problem solved |
-| **Project B** | UI/UX heavy project… | Design + frontend polish, responsive feats, interaction details |
-| **Project C** | Backend service / API / tool | Scalability, test coverage, clean architecture |
-
-*(Add links to repo / live site / demo as appropriate)*
+## 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/virtuoso-04/virtuoso-04/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-## 🏆 Achievements & Learning Focus
-
-- Working at Amazon — shipping large scale features  
-- Always refining clean architecture, testing, performance tuning  
-- Exploring design systems and accessibility  
-- Learning more about cloud infrastructure, serverless patterns, and best practices  
+## ⚡ Cool GIF
+<img src="https://raw.githubusercontent.com/virtuoso-04/virtuoso-04/main/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="1000">
 
 ---
 
-## 📫 Let’s Connect
-
-If you like what you see, let's work together or just chat about tech.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-link)  
-[![Email](https://img.shields.io/badge/Email-me-red?logo=gmail)](mailto:anant@youremail.com)
+## 💰 Support My Work
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/virtuoso)  
 
 ---
-
-> “Make it work, make it right, make it fast.”
-
----
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=virtuoso-04&icon=0&color=0)
