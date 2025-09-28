@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/virtuoso-04/virtuoso-04/main/your_cool_intro.gif)
+![](https://raw.githubusercontent.com/virtuoso-04/virtuoso-04/main/animate and loop your artwork, image to look alive.jpeg)
 
 # 👋 Hey, I’m Anant Sharma  
 
